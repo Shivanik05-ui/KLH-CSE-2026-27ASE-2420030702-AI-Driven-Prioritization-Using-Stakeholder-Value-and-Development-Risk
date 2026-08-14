@@ -4,9 +4,7 @@ S. No.	Name	Student ID
 1	V. Varshita	2420030230
 2	M Prashamsa	2420030692
 3	K Shivani	2420030702
-Supervisor
 
-Supervisor: [Enter Supervisor's Full Name]
 
 Project Abstract
 
@@ -57,8 +55,9 @@ Technology Stack
 
 To be updated according to the technologies actually used in the project.
 
-Possible technologies include:
+Technology Stack & Tools:
 
+Development Technologies
 Programming Language: Python
 Machine Learning: Scikit-learn
 Data Processing: Pandas, NumPy
@@ -67,7 +66,32 @@ Frontend: HTML, CSS, JavaScript
 Database: MySQL / MongoDB
 Version Control: Git & GitHub
 
-Don't list a technology here unless your team actually uses it.
+Agile & Project Management Tools:
+
+Jira: Sprint planning, backlog management, issue tracking, and progress monitoring
+Trello: Task organization and Kanban-style workflow management
+GitHub Projects: Sprint/task tracking and integration with the development repository
+GitHub Issues: Bug tracking, feature requests, and task management
+GitHub Pull Requests: Code review and collaborative development
+GitHub Actions: Continuous Integration and automated workflows
+Figma: UI/UX design and prototyping
+Postman: API development and testing
+Draw.io / diagrams.net: System architecture, workflow, and UML diagrams
+Agile Development Practices
+
+Our project follows an adaptive/agile development approach involving:
+
+Product backlog management
+Sprint planning
+Task assignment
+Incremental development
+Continuous testing
+Code reviews
+Regular progress tracking
+Feedback-based requirement refinement
+Sprint reviews
+Retrospective analysis
+
 
 Setup Instructions
 Clone the repository.
