@@ -4,8 +4,6 @@ S. No.	Name	Student ID
 1	V. Varshita	2420030230
 2	M Prashamsa	2420030692
 3	K Shivani	2420030702
-
-
 Project Abstract
 
 Software development projects often involve a large number of requirements, features, and tasks that must be prioritized effectively. Traditional prioritization approaches may rely heavily on subjective judgment and may not adequately consider both the value a requirement provides to stakeholders and the risks associated with its development.
@@ -38,25 +36,20 @@ These factors are processed by the system to calculate or predict a priority sco
 Basic Workflow
 Software Requirements / Tasks
             ↓
-    Data Collection
+      Data Collection
             ↓
-   Feature Extraction
+     Feature Extraction
             ↓
 Stakeholder Value Analysis
             ↓
  Development Risk Analysis
             ↓
-      AI Processing
+       AI Processing
             ↓
-    Priority Score
+      Priority Score
             ↓
-  Ranked Requirements
-Technology Stack
-
-To be updated according to the technologies actually used in the project.
-
-Technology Stack & Tools:
-
+    Ranked Requirements
+Technology Stack & Tools
 Development Technologies
 Programming Language: Python
 Machine Learning: Scikit-learn
@@ -65,9 +58,7 @@ Backend: Flask / FastAPI
 Frontend: HTML, CSS, JavaScript
 Database: MySQL / MongoDB
 Version Control: Git & GitHub
-
-Agile & Project Management Tools:
-
+Agile & Project Management Tools
 Jira: Sprint planning, backlog management, issue tracking, and progress monitoring
 Trello: Task organization and Kanban-style workflow management
 GitHub Projects: Sprint/task tracking and integration with the development repository
@@ -91,8 +82,6 @@ Regular progress tracking
 Feedback-based requirement refinement
 Sprint reviews
 Retrospective analysis
-
-
 Setup Instructions
 Clone the repository.
 Navigate to the project directory.
